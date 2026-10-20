@@ -31,9 +31,6 @@
 - **Ежедневные награды.** Серия до 7 дней.
 - **Глобальные рейтинги.** Табло «Топ побед» и «Топ нокаутов» в лобби на OrderedDataStore.
 
-### Стек
-Luau · Rojo. Карта генерируется кодом при старте сервера. Весь баланс вынесен в конфиг-модули (`Config`, `Skins`, `Cases`, `Buffs`, `Sounds`).
-
 ---
 
 ## English
@@ -53,6 +50,3 @@ Luau · Rojo. Карта генерируется кодом при старте
 - **Per-match buffs.** Fury, Heavyweight, Adrenaline, Long Arm, Second Chance, Greed.
 - **Daily rewards.** Streaks of up to 7 days.
 - **Global leaderboards.** "Top Wins" and "Top Knockouts" boards in the lobby, backed by OrderedDataStore.
-
-### Tech
-Luau · Rojo. The map is generated in code at server start. All balancing lives in config modules (`Config`, `Skins`, `Cases`, `Buffs`, `Sounds`).
